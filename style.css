@@ -1,0 +1,21 @@
+body{
+    background-color: palevioletred;
+    color: white;
+}
+
+#score{
+    font-size: 30px;
+    float: left;
+    margin-left: 80px;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 80px;
+}
+
+#drawing{
+    color: black;
+    font-size: 20px;
+}
